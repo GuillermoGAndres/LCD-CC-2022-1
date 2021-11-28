@@ -1,0 +1,8 @@
+Soy el proceso padre con ID 22287
+Hola, soy Juan y tengo el ID 26053Hola, soy Maria y tengo el ID 26056
+
+Hola, soy Pedro y tengo el ID 26065Hola, soy Pablo y tengo el ID 26061
+Hola, soy Jose y tengo el ID 26064
+
+
+Fin del proceso padre.
